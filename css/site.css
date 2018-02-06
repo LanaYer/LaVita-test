@@ -148,7 +148,7 @@ a, p, div{
 }
 @media (max-width: 480px) {
     .main_form-left-block{
-        height: 270px;
+        height: 300px;
     }
 }
 
